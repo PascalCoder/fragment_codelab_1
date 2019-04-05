@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\f17f977115cfd5f97c834f2026ab5869\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\96d6e90fd1df80b8de114cb543328dff\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\80343fc6f8973e63705c9da66d251def\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f3f18415ba386786e3e89c239e7ad594\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\2c969d3b0bb192c6ae317748739452b5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\51d24ce3b4f76ab24a6b79fe7e8152db\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\27510fc148f28453ca417415b7c17a69\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\d0ad17b7f395742e6ab6b2bed15997ea\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\70698b717040871a9933ef660507fa0c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\39491848d0d1c0d6ccb4fd8f930937fb\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:19:5-50
+		INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\f17f977115cfd5f97c834f2026ab5869\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\f17f977115cfd5f97c834f2026ab5869\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\96d6e90fd1df80b8de114cb543328dff\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\96d6e90fd1df80b8de114cb543328dff\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\80343fc6f8973e63705c9da66d251def\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\80343fc6f8973e63705c9da66d251def\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f3f18415ba386786e3e89c239e7ad594\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f3f18415ba386786e3e89c239e7ad594\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\2c969d3b0bb192c6ae317748739452b5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\2c969d3b0bb192c6ae317748739452b5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\51d24ce3b4f76ab24a6b79fe7e8152db\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\51d24ce3b4f76ab24a6b79fe7e8152db\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\27510fc148f28453ca417415b7c17a69\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\27510fc148f28453ca417415b7c17a69\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\d0ad17b7f395742e6ab6b2bed15997ea\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\d0ad17b7f395742e6ab6b2bed15997ea\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\70698b717040871a9933ef660507fa0c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\70698b717040871a9933ef660507fa0c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\39491848d0d1c0d6ccb4fd8f930937fb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\39491848d0d1c0d6ccb4fd8f930937fb\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.fragmentexample.MainActivity
+ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml:30:25-66
+uses-sdk
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\f17f977115cfd5f97c834f2026ab5869\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\f17f977115cfd5f97c834f2026ab5869\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\96d6e90fd1df80b8de114cb543328dff\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\96d6e90fd1df80b8de114cb543328dff\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\80343fc6f8973e63705c9da66d251def\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\80343fc6f8973e63705c9da66d251def\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f3f18415ba386786e3e89c239e7ad594\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f3f18415ba386786e3e89c239e7ad594\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\2c969d3b0bb192c6ae317748739452b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\2c969d3b0bb192c6ae317748739452b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\51d24ce3b4f76ab24a6b79fe7e8152db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\51d24ce3b4f76ab24a6b79fe7e8152db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\27510fc148f28453ca417415b7c17a69\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\27510fc148f28453ca417415b7c17a69\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\d0ad17b7f395742e6ab6b2bed15997ea\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\d0ad17b7f395742e6ab6b2bed15997ea\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\70698b717040871a9933ef660507fa0c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\70698b717040871a9933ef660507fa0c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\39491848d0d1c0d6ccb4fd8f930937fb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\39491848d0d1c0d6ccb4fd8f930937fb\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\f17f977115cfd5f97c834f2026ab5869\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pbaco\Downloads\android-advanced-starter-apps-master\FragmentExample_start\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\f17f977115cfd5f97c834f2026ab5869\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\96d6e90fd1df80b8de114cb543328dff\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\96d6e90fd1df80b8de114cb543328dff\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\80343fc6f8973e63705c9da66d251def\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\80343fc6f8973e63705c9da66d251def\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\2c969d3b0bb192c6ae317748739452b5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\2c969d3b0bb192c6ae317748739452b5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\51d24ce3b4f76ab24a6b79fe7e8152db\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\51d24ce3b4f76ab24a6b79fe7e8152db\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\27510fc148f28453ca417415b7c17a69\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\27510fc148f28453ca417415b7c17a69\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\d0ad17b7f395742e6ab6b2bed15997ea\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\d0ad17b7f395742e6ab6b2bed15997ea\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\70698b717040871a9933ef660507fa0c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\70698b717040871a9933ef660507fa0c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\39491848d0d1c0d6ccb4fd8f930937fb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\39491848d0d1c0d6ccb4fd8f930937fb\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\f17f977115cfd5f97c834f2026ab5869\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\pbaco\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\f17f977115cfd5f97c834f2026ab5869\AndroidManifest.xml:27:13-51

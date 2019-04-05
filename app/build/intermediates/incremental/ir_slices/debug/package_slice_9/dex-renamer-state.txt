@@ -1,0 +1,4 @@
+#Thu Apr 04 20:48:03 EDT 2019
+base.0=C\:\\Users\\pbaco\\Downloads\\android-advanced-starter-apps-master\\FragmentExample_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
